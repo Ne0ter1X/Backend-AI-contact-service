@@ -1,0 +1,7 @@
+fastapi
+pydantic
+pydantic_settings
+uvicorn
+python-dotenv
+openai
+email-validator
